@@ -5,9 +5,7 @@ author: Jeff Wang
 navbar-links:
   About Me: "aboutme"
   
-avatar: "
+avatar: "https://github.com/jeffwang1001/jeffwang1001.github.io/blob/main/jeffwang.png"
 
-[params.social]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.com/citations?user=PW5OX-YAAAAJ&hl=en"
+
+
