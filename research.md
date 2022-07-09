@@ -12,4 +12,4 @@ Wang, L. (2017).  Interaction Between Spire and Rab GTPases and its Effect on th
 
 ## Research Associate
 
-During my two years of postbac research training, I worked as a research associate/lab manager in the Kosuri Lab at UCLA. 
+During my two years of postbac research training, I worked as a research associate/lab manager in the Kosuri Lab at UCLA. HEre
