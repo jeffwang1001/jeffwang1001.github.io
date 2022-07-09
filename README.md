@@ -8,7 +8,7 @@ I was formerly a research associate in the [Kosuri Lab](http://www.kosurilab.org
 
 Outside of lab, I enjoy board games, anything outdoors, and cycling.
 
-![LI-In-Bug](https://user-images.githubusercontent.com/31942303/178120170-a2c4e7e4-4f83-4136-862d-a703f78b6df4.png)
+![LI-In-Bug](https://www.linkedin.com/in/jeff-wang-ucla/)
 
 
 ```markdown
