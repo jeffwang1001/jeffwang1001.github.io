@@ -7,8 +7,11 @@ title: Research
 
 ## Undergraduate Work
 
-<p>During my tenure in the Quinlan Lab at UCLA, I studied the protein-protein interaction between Drosophila Spire and Drosophila Rab GTPases within the context of polarity establishment during Drosophila oogenesis. This work culminated in a Master's Thesis as a part of the Departmental Scholars Program.<br>
-Wang, L. (2017).  Interaction Between Spire and Rab GTPases and its Effect on the Developing Drosophila Oocyte. UCLA [link](https://escholarship.org/uc/item/5hv5d87j)</p>
+During my tenure in the Quinlan Lab at UCLA, I studied the protein-protein interaction between Drosophila Spire and Drosophila Rab GTPases within the context of polarity establishment during Drosophila oogenesis. This work culminated in a Master's Thesis as a part of the Departmental Scholars Program.
+
+Wang, L. (2017). Interaction Between Spire and Rab GTPases and its Effect on the Developing Drosophila Oocyte. UCLA [link](https://escholarship.org/uc/item/5hv5d87j)
+
+  
 
 ## Research Associate
 
