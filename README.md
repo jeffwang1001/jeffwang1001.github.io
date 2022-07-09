@@ -4,12 +4,12 @@ I am currently a 4th year MD/PhD student at [UT Health San Antonio](https://www.
 
 My primary research interests are in DNA repair and cancer biology. I employ biochemical methods to examine protein complexes involved in HR mediated DNA repair and their overall functional impact on cancer progression.
 
-I was formerly a research associate in the [Kosuri Lab](http://www.kosurilab.org/) at UCLA, where I worked on engineering cellular-based high throughout reporter assays for interrogating olfactory receptor activation and splicing. I graduated in 2017 with a BS/MS in Biochemistry from UCLA, where I was advised by [Margot Quinlan](http://www.biochemistry.ucla.edu/Faculty/Quinlan/quinlanLab/). 
+I was formerly a research associate in the [Kosuri Lab](http://www.kosurilab.org/) at UCLA, where I worked on engineering cellular-based high throughout reporter assays for interrogating olfactory receptor activation, DMS of ADRB2, and splicing. I graduated in 2017 with a BS/MS in Biochemistry from UCLA, where I was advised by [Margot Quinlan](http://www.biochemistry.ucla.edu/Faculty/Quinlan/quinlanLab/). 
 
 Outside of lab, I enjoy board games, anything outdoors, and cycling.
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![LI-In-Bug](https://user-images.githubusercontent.com/31942303/178120170-a2c4e7e4-4f83-4136-862d-a703f78b6df4.png)
+
 
 ```markdown
 Syntax highlighted code block
