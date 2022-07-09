@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+###### Welcome! 
 
-You can use the [editor on GitHub](https://github.com/jeffwang1001/jeffwang1001.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently a 4th year MD/PhD student at [UT Health San Antonio](https://www.uthscsa.edu/academics/biomedical-sciences/programs/md-phd), where I am advised by [Patrick Sung](https://directory.uthscsa.edu/academics/profile/sungp) in the Department of Biochemistry and Structural Biology. (https://github.com/jeffwang1001/jeffwang1001.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
