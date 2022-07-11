@@ -26,7 +26,10 @@ social-network-links:
   
   
 navbar-col: "#bd5f00"  
+navbar-text-col: "#FFFFFF"
+
 footer-col: "#bd5f00"
+footer-text-col: "#FFFFFF"
 
 
   
