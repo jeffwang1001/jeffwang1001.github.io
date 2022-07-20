@@ -3,4 +3,4 @@ layout: page
 title: Blog Posts
 ---
 
-Listing
+Coming Soon
