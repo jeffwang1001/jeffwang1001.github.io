@@ -10,3 +10,4 @@ Outside of lab, I enjoy board games, anything outdoors, and cycling.
 
 You can find my CV [here](https://github.com/jeffwang1001/jeffwang1001.github.io/blob/main/Jeff%20Wang%202022%20CV.pdf)
 
+![beijing](assets/images/beijing.jpg)
