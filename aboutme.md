@@ -17,5 +17,9 @@ Home for the first year and a half was in Edison, New Jersey. There, I would att
 
 <img src="assets/images/nj1.jpg" width="300">  <img src="assets/images/nj2.jpg" width="300">  <img src="assets/images/nj3.jpg" width="300">  
 
+At the start of my freshman year of high school, I switched coast allegiances and moved to Fremont, a city suburb of the greater San Francisco Bay Area. My dad had relocated the year prior for work while my mom and I stayed an extra year in NJ for me to finish out middle school before reuniting with my dad on the west coast. I had to quickly acclimate to a new school setting and the task of making new friends. While four years can seeem like a blur, especially with the now added expectations for grades, extracurriculars and standardized tests for the eventual college apps, I nevertheless developed close friendships. Some I have still kept in close contact with while others have naturally dissipated over the course of time, distance, college, changing interests and personal development. 
+
+<img src="assets/images/bay1.jpg" width="300"> <img src="assets/images/bay2.jpg" width="300"> 
+
 
 
