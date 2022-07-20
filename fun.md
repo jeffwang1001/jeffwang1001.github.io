@@ -14,7 +14,7 @@ Departmental party after Margot recieved tenure in July of 2016! It was well des
 
 Lab retreat in Cambria during my first year in the lab! It was an awesome time and a great oppurtunity to interact with members of the lab as I had only been in the lab for a few months. We went tandem kayaking in the nearby state park just off the shore of the pacific. Friendly kayak battles ensued with Calin and Sri being capsized at some point after the right most photo being taken.
 
-<img src="assets/images/klab1.jpeg" width="300"> <img src="assets/images/klab2.jpeg" width="300">  <img src="assets/images/klab6.jpeg" width="300"> 
+<img src="assets/images/klab1.jpeg" width="300"> <img src="assets/images/klab2.jpeg" width="300"> <img src="assets/images/klab5.jpeg" width="300">   <img src="assets/images/klab6.jpeg" width="300"> 
 
 Last lab retreat in Zion National Park during my second year in the lab! It was the last lab retreat before Sri would take an indefinitive leave of absence to run his startup, Octant Bio. It was my first time in Zion and especially awesome to experience it with members of the lab. 
 
