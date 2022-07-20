@@ -31,8 +31,7 @@ navbar-text-col: "#FFFFFF"
 footer-col: "#bd5f00"
 footer-text-col: "#FFFFFF"
 
-kramdown:
-  input: Kramdown
+
   
 
 
