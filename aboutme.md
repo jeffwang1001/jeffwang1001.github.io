@@ -7,7 +7,8 @@ A short autobiographical piece
 
 I was born in Chengdu, China in the early 90's. Located in the southwestern region of the country, it is the capital of the greater Sichuan province, famous for its pandas and hotpot, and my father's hometown. My stay here was fairly brief, as shortly after turning one, I relocated to Beijing to live with my maternal grandparents. There, I would spend the first several years of childhood, under the auspice of my grandparents, while my parents were hard at work establishing themselves in America and preparing an optimal living environment for my eventual reunion with them in 1999. 
 
-<img src="assets/images/beijing.jpg" width="100">
+<img src="assets/images/beijing.jpg" width="100">  <img src="assets/images/beijing.jpg" width="100">  <img src="assets/images/beijing.jpg" width="100"> 
+
 
 
 Technically, my first steps in America was in the Detroit Metro Airport. I still remember my grandmother hurrying me along as we were trying to catch our connecting flight to Newark International Airport. It was a joyous occasion meeting my parents when we landed in Newark. Mom had visited Beijing the year prior so I was familiar with what she looked like but I was meeting dad for the first time. He greeted me with the biggeset smile at which point I noticed what looked like metal wires interspersed across the upper row of his teeth. Years later, I would wear the same metal contraption during my braces phase in middle school. The ride home was filled with chitchat between my parents and grandma. I on the other hand was intently glued to the car window, taking in all the lights, the stimuli of my new environment, and the surprising amount of space in the old buick sedan my parents owned and operated at the time. 
