@@ -8,5 +8,6 @@ I was formerly a research associate in the [Kosuri Lab](http://www.kosurilab.org
 
 Outside of lab, I enjoy board games, anything outdoors, and cycling.
 
-You can find my CV [here](https://github.com/jeffwang1001/jeffwang1001.github.io/blob/main/Jeff%20Wang%202022%20CV.pdf){:target="_blank" rel="noopener"}
+You can find my CV [here](https://github.com/jeffwang1001/jeffwang1001.github.io/blob/main/Jeff%20Wang%202022%20CV.pdf)
 
+<a href="/Jeff%20Wang%202022%20CV.pdf" target="_blank">PDS</a>
