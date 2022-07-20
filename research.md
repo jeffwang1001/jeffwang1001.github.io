@@ -27,7 +27,7 @@ Cheung, R., Insigne, K.D., Yao, D., Burghard, C.P., **Wang, J.**, Hsiao, Y.E, Jo
 
 ## Summer Rotation 2019: Huang Lab
 
-I rotated in the Huang Lab during summer 2019 and worked on quantifying the metabolic changes in oxidative phosphorylation and glycolysis of circulating prostate cancer cells when treated with metformin. Emerging evidence suggested that metformin has some antitumor properties in modulating cancer cell metabolism. Thus, I investigated any changes in energy metabolism of cancer cells during circulation and metformin treatment. I presented these findings at the annual STX-MSTP Research Retreat as well as the Long School of Medicine Research Week. You can view the poster <a href="poster/MSTP%20Spring%20Retreat%202022%20Poster.pdf" target="_blank">here</a>
+I rotated in the Huang Lab during summer 2019 and worked on quantifying the metabolic changes in oxidative phosphorylation and glycolysis of circulating prostate cancer cells when treated with metformin. Emerging evidence suggested that metformin has some antitumor properties in modulating cancer cell metabolism. Thus, I investigated any changes in energy metabolism of cancer cells during circulation and metformin treatment. I presented these findings at the annual STX-MSTP Research Retreat as well as the Long School of Medicine Research Week. You can view the poster <a href="poster/MSTP%20Spring%20Retreat%202022%20Poster.pdf" target="_blank">here</a>.
 
 ## Graduate Student: Sung Lab
 
