@@ -18,5 +18,5 @@ Lab retreat in Cambria during my first year in the lab! It was an awesome time a
 
 Last lab retreat in Zion National Park during my second year in the lab! It was the last lab retreat before Sri would take an indefinitive leave of absence to run his startup, Octant Bio. It was my first time in Zion and especially awesome to experience it with members of the lab.
 
-<img src="assets/images/klab4.jpeg" 
 
+<img src="assets/images/klab4.jpeg" width="300"> 
