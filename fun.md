@@ -16,7 +16,7 @@ Lab retreat in Cambria during my first year in the lab! It was an awesome time a
 
 <img src="assets/images/klab1.jpeg" width="300"> <img src="assets/images/klab2.jpeg" width="300"> <img src="assets/images/klab5.jpeg" width="300">   <img src="assets/images/klab6.jpeg" width="300"> 
 
-Last lab retreat in Zion National Park during my second year in the lab! It was the last lab retreat before Sri would take an indefinitive leave of absence to run his startup, [Octant Bio](https://www.octant.bio/). It was my first time in Zion and especially awesome to experience it with members of the lab. 
+Last lab retreat in Zion National Park during my second year in the lab! It was the last lab retreat before Sri would take an indefinitive leave of absence to run his startup, <a href="https://www.octant.bio/" target="_blank"<Octant Bio</a>. It was my first time in Zion and especially awesome to experience it with members of the lab. 
 
 
  <img src="assets/images/zion1.jpg" width="300"> <img src="assets/images/zion2.jpg" width="300"> <img src="assets/images/klab3.jpeg" width="300"> <img src="assets/images/klab7.jpeg" width="300"> 
