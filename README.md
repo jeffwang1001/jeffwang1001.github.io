@@ -1,6 +1,6 @@
 **Hello and Welcome!**
 
-I am currently a 4th year MD/PhD student at <a href="https://www.uthscsa.edu/academics/biomedical-sciences/programs/md-phd" target="_blank">UT Health San Antonio</a>, where I am advised by [Patrick Sung](https://directory.uthscsa.edu/academics/profile/sungp) in the [Department of Biochemistry and Structural Biology](https://lsom.uthscsa.edu/biochemistry). 
+I am currently a 4th year MD/PhD student at <a href="https://www.uthscsa.edu/academics/biomedical-sciences/programs/md-phd" target="_blank">UT Health San Antonio</a>, where I am advised by <a href="https://directory.uthscsa.edu/academics/profile/sungp" target="_blank">Patrick Sung</a> in the <a href="https://lsom.uthscsa.edu/biochemistry" target="_blank">Department of Biochemistry and Structural Biology</a>.
 
 My primary research interests are in DNA repair and cancer biology. I employ biochemical methods to examine protein complexes involved in HR mediated DNA repair and their overall functional impact on cancer progression.
 
