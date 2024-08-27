@@ -23,6 +23,12 @@ Last lab retreat in Zion National Park during my second year in the lab! It was 
 
 ## Sung Lab
 
+Holiday Party at Stephen's! A great sendoff to 2023!
+
+ <img src="assets/images/holiday_party.jpg" width="600" length= "400">
+
+
+
 Farewell party at Patrick's house for Bo! Two years came and went so quickly. 
 
  <img src="assets/images/Bo_Farewell.jpg" width="600" length= "400">
