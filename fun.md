@@ -21,3 +21,9 @@ Last lab retreat in Zion National Park during my second year in the lab! It was 
 
  <img src="assets/images/zion1.jpg" width="300"> <img src="assets/images/zion2.jpg" width="300"> <img src="assets/images/klab3.jpeg" width="300"> <img src="assets/images/klab7.jpeg" width="300"> 
 
+## Sung Lab
+
+Farewell party at Patrick's house for Bo! Two years came and went so quickly. 
+
+ <img src="assets/images/Bo_Farewell.jpg" width="600" length= "400">
+ 
