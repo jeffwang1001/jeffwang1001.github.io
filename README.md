@@ -9,4 +9,5 @@ I was formerly a research associate in the <a href="http://www.kosurilab.org/" t
 Outside of lab, I enjoy board games, anything outdoors, and cycling.
 
 You can find my CV <a href="/Jeff%20Wang%202022%20CV.pdf" target="_blank">here</a>
-You can find my Biosketch <a href="/Jeff%20Wang%202022%20CV.pdf" target="_blank">here</a>
+
+You can find my Biosketch <a href="/JW%20F30%206.BIOSKETCH%208.2024.pdf" target="_blank">here</a>
