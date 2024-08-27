@@ -23,7 +23,7 @@ At the start of my freshman year of high school, I switched coast allegiances an
 
 I graduated from UCLA where I conducted undergraduate research in the Quinlan lab. Subsequently, after graduating I would stay in LA for another 2 years working as a research associated/lab manager in the Kosuri lab right across the hall. I thoroughly enjoyed my time in southern california. 
 
-<img src="assets/images/136-UCLA_Hedrick-View.jpg" width="300"> 
+<img src="assets/images/136-UCLA_Hedrick-View.jpg" width="500" length="300"> 
 
 
 
