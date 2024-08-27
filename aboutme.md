@@ -21,5 +21,9 @@ At the start of my freshman year of high school, I switched coast allegiances an
 
 <img src="assets/images/bay1.jpg" width="300"> <img src="assets/images/bay2.jpg" width="300"> 
 
+I graduated from UCLA where I conducted undergraduate research in the Quinlan lab. Subsequently, after graduating I would stay in LA for another 2 years working as a research associated/lab manager in the Kosuri lab right across the hall. I thoroughly enjoyed my time in southern california. 
+
+<img src="assets/images/136-UCLA_Hedrick-View.jpg" width="300"> 
+
 
 
