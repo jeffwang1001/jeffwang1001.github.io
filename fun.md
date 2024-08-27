@@ -25,7 +25,7 @@ Last lab retreat in Zion National Park during my second year in the lab! It was 
 
 Holiday Party at Stephen's! A great sendoff to 2023!
 
- <img src="assets/images/holiday_party.jpg" width="600" length= "400">
+ <img src="assets/images/holiday_party.JPEG" width="600" length= "400">
 
 
 
